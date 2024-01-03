@@ -13,7 +13,7 @@ export default function Home() {
     </nav>
     <div className='flex flex-col gap-6 justify-center items-center  mb-20'>
       <h1 className='text-center font-headline text-4xl md:text-7xl px-16'>WHATS IN THE BAG??</h1>      
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/d3IueYsGKcs?si=zA__zkJJtlzR67Ej" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/d3IueYsGKcs?si=zA__zkJJtlzR67Ej" title="YouTube video player" frameBorder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowFullScreen></iframe>
       {/* <video className="p-6 bg-white rounded-16 w-3/4 h-3/4  md:w-1/4 md:h-1/4 rounded-lg" controls>            
         <source className='' src="https://res.cloudinary.com/dvrnub7lx/video/upload/v1691536202/tiny_farm_video_e8f62bb6d0.mp4" type="video/mp4" />
         Your browser does not support the video tag.
