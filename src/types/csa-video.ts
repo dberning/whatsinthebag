@@ -1,9 +1,16 @@
-type Recipe = any
+type CSAItem = {
+  name: string,
+  source: string,
+  recipe: {
+    name: string
+    link: string
+  }
+}
 
 type CSAVideo = {
   date: string,
   url: string, 
-  recipes: Recipe[]
+  items: CSAItem[]
 }
 
-export type { CSAVideo }
+export type { CSAVideo, CSAItem }
