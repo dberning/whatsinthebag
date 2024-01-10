@@ -7,6 +7,7 @@ type CSAVideoPlayerProps = {
 }
 
 export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
+  console.log(record.url)
   return (
     <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center overflow-y-auto">
         <div className="rounded-l-lg shadow-lg bg-white max-w-sm">
