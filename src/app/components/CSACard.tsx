@@ -8,7 +8,7 @@ type CSAVideoPlayerProps = {
 
 export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
   return (
-    <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center">
+    <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center overflow-y-auto">
         <div className="rounded-l-lg shadow-lg bg-white max-w-sm">
             
                 <video width="320" height="240" controls className="w-full rounded-t-lg">
@@ -16,8 +16,16 @@ export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
                     Your browser does not support the video tag.
                 </video>
             </div>
-            <div className="p-12 bg-white rounded-r-lg md:w-96">
-                <h5 className="text-gray-900 text-xl font-medium mb-2">{record.date}</h5>
+            <div className="px-4 md:px-12 pt-4 bg-white rounded-r-lg md:w-96">
+              <div className="mb-4">
+                <h5 className="text-gray-900 text-xl font-medium">{record.date}</h5>
+                {record.featured_recipe &&
+                  <div className="flex flex-row gap-1">
+                    <h6 className="text-gray-900 text-sm">Featured Recipe:</h6>
+                    <a className="text-gray-900 text-sm" href={record.featured_recipe.link} target="blank"><span className="underline">{record.featured_recipe.name}</span></a>
+                  </div>
+                }  
+                </div>              
                 <div className="flex flex-col gap-3 text-gray-700 text-base mb-4">
                     {record.items.length ?  
                       record.items.map( (item: CSAItem, idx: number) => {
