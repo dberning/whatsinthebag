@@ -14,7 +14,7 @@ async function getLocalData() {
 
 export default async function Home() {
   const data = await getLocalData()  
-  data.splice(0,1)
+  // data.splice(0,1)
 
   return (        
     <main className="min-w-full flex min-h-screen flex-col">    

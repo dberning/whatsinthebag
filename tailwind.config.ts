@@ -12,6 +12,9 @@ const config: Config = {
         headline: ['Travelers-rounded', 'sans-serif'],
         body: ['Founders', 'sans-serif'],
       },
+      height: {
+        '320': '320px',
+      },
       backgroundImage: {
         'farm-background' : "url('/farm-background.jpeg')",        
       },
