@@ -1,5 +1,79 @@
 [
   {
+    "date": "1-17-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-17-24.MOV?t=2024-01-17T17%3A58%3A15.823Z",
+    "featured_recipe": {
+      "name": "Beet Bowl with Chimichurri Vinagrette",
+      "link": "https://thatvegannephew.com/roasted-beet-bowl-with-chimichurri-vinaigrette/"
+    },
+    "items": [
+      {
+        "name": "Carrots",
+        "source": "Sage Hill Gardens Farm",
+        "recipe": {
+          "name": "Carrot Top Chimichurri",
+          "link": "https://www.loveandlemons.com/carrot-greens-chimichurri/"
+        }
+      },
+      {
+        "name": "Naval Oranges",
+        "source": "Behenmen Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kale Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cocktail Grapefruit",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Grapefruit Sunrise Cocktail",
+          "link": "https://theblondcook.com/grapefruit-sunrise-cocktail/"
+        }
+      }
+    ]
+  },
+  {
     "date": "1-10-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-10-24.MOV?t=2024-01-10T17%3A55%3A27.092Z",
     "featured_recipe": {
