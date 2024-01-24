@@ -1,5 +1,71 @@
 [
   {
+    "date": "1-24-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-17-24.MOV?t=2024-01-17T17%3A58%3A15.823Z",
+    "featured_recipe": {
+      "name": "Broccoli & Tatsoi in Garlic Sauce",
+      "link": "https://www.healthygffamily.com/recipe/broccoli-bok-choy-eggplant-in-garlic-sauce/"
+    },
+    "items": [
+      {
+        "name": "Tat Soi",
+        "source": "Sage Hill Gardens Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Bunching Onions",
+        "source": "Sage Hill Gardens Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Broccoli",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Stir Fried Collard Greens",
+          "link": "https://www.foodnetwork.com/recipes/stir-fried-collard-greens-recipe-1943340"
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Herb Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "1-17-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-17-24.MOV?t=2024-01-17T17%3A58%3A15.823Z",
     "featured_recipe": {
