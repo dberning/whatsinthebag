@@ -1,5 +1,63 @@
 [
   {
+    "date": "2-7-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/2-7.MOV?t=2024-02-07T17%3A44%3A14.522Z",
+    "featured_recipe": {
+      "name": "Carrot and Kohlrabi Slaw",
+      "link": "https://www.thespruceeats.com/carrot-kohlrabi-slaw-2217352"
+    },
+    "items": [
+      {
+        "name": "Carrots",
+        "source": "Sage Hill Gardens Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kholrabi",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "Sautéed Kohlrabi (with the greens)",
+          "link": "https://itsavegworldafterall.com/sauteed-kohlrabi/"
+        }
+      },
+      {
+        "name": "Spicy Lettuce Mix",
+        "source": "@jaminluoto",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Collards",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Broccoli",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "1-31-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-31-24.MOV?t=2024-01-31T17%3A39%3A48.591Z",
     "featured_recipe": {
