@@ -11,6 +11,8 @@ export const metadata: Metadata = {
   },
 }
 
+// random comment
+
 export default function RootLayout({
   children,
 }: {
