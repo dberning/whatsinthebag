@@ -1,5 +1,63 @@
 [
   {
+    "date": "2-28-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/WITB-2-28.mp4?t=2024-02-28T19%3A35%3A39.848Z",
+    "featured_recipe": {
+      "name": "Arugula and Romaine Salad with Capers and Prosciutto",
+      "link": "https://www.mediterraneanliving.com/salad-with-capers-and-prosciutto/"
+    },
+    "items": [
+      {
+        "name": "Celery",
+        "source": "Sage Hill Gardens Farm",
+        "recipe": {
+          "name": "Celery and Apple Salad",
+          "link": "https://www.splendidtable.org/story/2015/11/06/celery-and-apple-salad"
+        }
+      },
+      {
+        "name": "Romaine Lettuce",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Baby Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Collards",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "2-21-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/2-21.MOV?t=2024-02-21T17%3A44%3A47.229Z",
     "featured_recipe": {
