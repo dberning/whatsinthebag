@@ -12,7 +12,7 @@ export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
     <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center overflow-y-auto">
         <div className="rounded-l-lg shadow-lg bg-white max-w-sm">
             
-                <video width="320" height="240" controls className="w-full rounded-t-lg">
+                <video width="320px" height="240px" controls className="rounded-t-lg">
                     <source src={record.url} />                    
                     Your browser does not support the video tag.
                 </video>

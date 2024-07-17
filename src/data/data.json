@@ -1,5 +1,103 @@
 [
   {
+    "date": "7-17-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/7_17.mov",
+    "featured_recipe": {
+      "name": "Zucchini Bread",
+      "link": "https://sallysbakingaddiction.com/zucchini-bread/"
+    },
+    "items": [
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Cubed radish kimchi",
+          "link": "https://www.maangchi.com/recipe/kkakdugi"
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Basil Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Basil Water",
+          "link": "https://www.worldofvegan.com/basil-water/"
+        }
+      },
+      {
+        "name": "Kale Bunch",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Dad's Garden",
+        "recipe": {
+          "name": "Braised Swiss Chard with Bacon and Hot Sauce",
+          "link": "https://www.bonappetit.com/recipe/braised-swiss-chard-with-bacon-and-hot-sauce"
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cucumbers",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Cucumber Water",
+          "link": "https://www.acouplecooks.com/cucumber-water/"
+        }
+      },
+      {
+        "name": "Salanova Lettuce Head",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "1 (Only 1) Tomato",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bundle",
+        "source": "@beeworthyfarms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "7-10-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/7_10.MOV?t=2024-07-11T02%3A05%3A05.444Z",
     "featured_recipe": {
