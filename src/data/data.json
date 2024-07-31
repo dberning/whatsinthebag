@@ -1,5 +1,79 @@
 [
   {
+    "date": "7-31-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/7-31.mov?t=2024-07-31T17%3A58%3A47.519Z",
+    "featured_recipe": {
+      "name": "Tomato Beet Salad",
+      "link": "https://foxeslovelemons.com/heirloom-tomato-beet-salad/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Basil Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Dad's Garden",
+        "recipe": {
+          "name": "Simple Swiss Chard",
+          "link": "https://www.loveandlemons.com/swiss-chard/"
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Sauteed Zucchini Recipe",
+          "link": "https://www.wellplated.com/sauteed-zucchini/"
+        }
+      },
+      {
+        "name": "Kale Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Easy Garlic Kale",
+          "link": "https://www.allrecipes.com/recipe/241074/easy-garlic-kale/"
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bundle",
+        "source": "@beeworthyfarms",
+        "recipe": {
+          "name": "Follow on IG",
+          "link": "https://www.instagram.com/beeworthyfarms/?hl=en"
+        }
+      }
+    ]
+  },
+  {
     "date": "7-24-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/7-24.MOV?t=2024-07-24T18%3A09%3A38.583Z",
     "featured_recipe": {
@@ -64,7 +138,7 @@
         }
       },
       {
-        "name": "Tomatos",
+        "name": "Tomatoes",
         "source": "Cardiff Tiny Farm",
         "recipe": {
           "name": "",
