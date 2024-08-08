@@ -1,5 +1,79 @@
 [
   {
+    "date": "8-7-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-7.MP4?t=2024-08-08T03%3A52%3A13.422Z",
+    "featured_recipe": {
+      "name": "Roasted Beets, Radishes, Squash and Green Beans with an Orange-Dill Vinaigrette",
+      "link": "https://babybirdsfarm.com/roasted-beets-radishes-squash-and-green-beans-with-an-orange-dill-vinaigrette-recipe/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kale Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Garlic Parmesan Kale Pasta",
+          "link": "https://www.budgetbytes.com/garlic-parmesan-kale-pasta/"
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Tomato Arugula Salad",
+          "link": "https://peasandcrayons.com/tomato-arugula-salad/"
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "7-31-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/7-31.mov?t=2024-07-31T17%3A58%3A47.519Z",
     "featured_recipe": {
