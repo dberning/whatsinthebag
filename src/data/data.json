@@ -1,6 +1,88 @@
 [
   {
     "date": "8-14-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-21.MOV?t=2024-08-22T00%3A39%3A11.649Z",
+    "featured_recipe": {
+      "name": "Salt-Roasted (or Steam-Roasted) Beets with Goat Cheese & Toasted Walnuts",
+      "link": "https://alexandracooks.com/2010/04/29/salt-roasted-beets-with-goat-cheese-and-toasted-walnuts/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cucumber",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kale Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Baked Kale Chips",
+          "link": "https://www.allrecipes.com/recipe/176957/baked-kale-chips/"
+        }
+      },
+      {
+        "name": "Basil Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Basil Pesto Recipe",
+          "link": "https://www.loveandlemons.com/pesto-recipe/"
+        }
+      },
+      {
+        "name": "Pepino Dulce",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Pepino Melon Cocktail",
+          "link": "https://www.melissas.com/blogs/beverage/pepino-melon-cocktail"
+        }
+      },
+      {
+        "name": "Romaine Lettuce",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Arugula Salad with Lemon Vinaigrette",
+          "link": "https://www.loveandlemons.com/arugula-salad/"
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
+    "date": "8-14-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-14.MOV?t=2024-08-15T02%3A49%3A04.969Z",
     "featured_recipe": {
       "name": "Vegan Beet Burgers",
