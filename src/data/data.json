@@ -1,5 +1,63 @@
 [
   {
+    "date": "9-4-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/9-4-2024.MOV?t=2024-09-05T00%3A23%3A40.777Z",
+    "featured_recipe": {
+      "name": "Passion Fruit Juice",
+      "link": "https://cookingontheweekends.com/how-to-cut-eat-and-use-passion-fruit-a-photographic-guide/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Roasted Beets",
+          "link": "https://joyfoodsunshine.com/roasted-beets/"
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Romaine Lettuce",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Baked Tomatoes with Cheese",
+          "link": "https://www.thecookierookie.com/cheesy-baked-tomatoes-2/"
+        }
+      },
+      {
+        "name": "Passionfruit",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "8-28-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-28.mov?t=2024-08-29T03%3A31%3A50.489Z",
     "featured_recipe": {
