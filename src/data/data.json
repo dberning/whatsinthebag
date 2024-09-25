@@ -1,5 +1,95 @@
 [
   {
+    "date": "9-25-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/IMG_7493.mov?t=2024-09-25T19%3A00%3A49.869Z",
+    "featured_recipe": {
+      "name": "Roasted Red Pepper Soup",
+      "link": "https://www.loveandlemons.com/roasted-red-pepper-soup/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Squash Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kale Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Feijoa (Pineapple Guava)",
+        "source": "Barb's Garden",
+        "recipe": {
+          "name": "Feijoa Jam",
+          "link": "https://feijoarecipes.wordpress.com/2017/09/25/feijoa-jam/"
+        }
+      },
+      {
+        "name": "Passionfruit",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Passion Fruit Vinaigrette",
+          "link": "https://www.oliviascuisine.com/passion-fruit-vinaigrette/"
+        }
+      },
+      {
+        "name": "Red Sweet Peppers",
+        "source": "Fox Point Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bunch",
+        "source": "BeeWorthy Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "9-11-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/9-11.MOV?t=2024-09-12T16%3A17%3A21.283Z",
     "featured_recipe": {
