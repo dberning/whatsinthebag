@@ -1,5 +1,79 @@
 [
   {
+    "date": "10-30-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/IMG_7708.mov?t=2024-10-31T04%3A05%3A32.633Z",
+    "featured_recipe": {
+      "name": "Autumn Salad",
+      "link": "https://food52.com/recipes/2213-autumn-salad-with-roasted-squash-apple-radish-and-goat-cheese"
+    },
+    "items": [
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Zucchini Butter Pasta",
+          "link": "https://www.thekitchn.com/zucchini-butter-pasta-recipe-23662168"
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Spicy Lettuce Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dino Kale",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Feijoa (Pineapple Guava)",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Pears",
+        "source": "Mau Domingues",
+        "recipe": {
+          "name": "Follow on IG",
+          "link": "https://www.instagram.com/maudomingues/?hl=en"
+        }
+      }
+    ]
+  },
+  {
     "date": "10-23-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-23.MOV?t=2024-10-23T18%3A22%3A39.705Z",
     "featured_recipe": {
