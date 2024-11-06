@@ -1,5 +1,95 @@
 [
   {
+    "date": "11-6-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/11-6.mov?t=2024-11-06T23%3A27%3A38.299Z",
+    "featured_recipe": {
+      "name": "Fried Green Tomatoes",
+      "link": "https://www.allrecipes.com/recipe/16760/best-fried-green-tomatoes/"
+    },
+    "items": [
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Green Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Green Romaine Lettuce",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dino Kale",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Feijoa (Pineapple Guava)",
+        "source": "Barb's Garden",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Hot Sauce",
+        "source": "San Diego Pepper Co.",
+        "recipe": {
+          "name": "Follow on IG",
+          "link": "https://www.instagram.com/sdpeppercompany/?hl=en"
+        }
+      },
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bunch",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "10-30-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/IMG_7708.mov?t=2024-10-31T04%3A05%3A32.633Z",
     "featured_recipe": {
