@@ -1,5 +1,71 @@
 [
   {
+    "date": "11-27-2024",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/11-27.MOV?t=2024-11-27T19%3A05%3A50.014Z",
+    "featured_recipe": {
+      "name": "Scalloped Kohlrabi",
+      "link": "https://www.theseoldcookbooks.com/scalloped-kohlrabi/"
+    },
+    "items": [
+      {
+        "name": "Spicy Lettuce Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Romaine Lettuce",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dino Kale",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Massaged Kale Salad",
+          "link": "https://minimalistbaker.com/easy-massaged-kale-salad-15-minutes/"
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Kholrabi",
+        "source": "Fox Point Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Green Onions",
+        "source": "Fox Point Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Persimmons",
+        "source": "Steve Moore",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "11-20-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/11-20.MOV?t=2024-11-20T20%3A57%3A55.809Z",
     "featured_recipe": {
