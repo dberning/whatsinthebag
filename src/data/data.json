@@ -1,5 +1,169 @@
 [
   {
+    "date": "1-15-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-15-2025.MP4?t=2025-01-21T19%3A16%3A49.141Z",
+    "featured_recipe": {
+      "name": "Roasted Delicata Squash",
+      "link": "https://www.budgetbytes.com/roasted-delicata-squash/"
+    },
+    "items": [
+      {
+        "name": "Delicata Squash",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Red Potatoes",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Mandarins",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Raddish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Grapefruit",
+        "source": "Enjoy the Farm",
+        "recipe": {
+          "name": "@enjoy_the_farm",
+          "link": "https://www.instagram.com/enjoy_the_farm/"
+        }
+      },
+      {
+        "name": "Carrots",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Rainbow Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Spicy Lettuce Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Rosemary/Basil Herb Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Flower Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
+    "date": "1-8-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/1-8-2025.MOV?t=2025-01-21T19%3A26%3A30.269Z",
+    "featured_recipe": {
+      "name": "Butternut Squash Soup",
+      "link": "https://www.loveandlemons.com/butternut-squash-soup/"
+    },
+    "items": [
+      {
+        "name": "Spicy Lettuce Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dino Kale",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Rainbow Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Avocados",
+        "source": "",
+        "recipe": {
+          "name": "@leitra_in_leucadia",
+          "link": "https://www.instagram.com/leitra_in_leucadia?igsh=NTc4MTIwNjQ2YQ=="
+        }
+      },
+      {
+        "name": "Butternut Squash",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Fuji Apples",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "12-18-2024",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/12-18.MOV?t=2024-12-19T02%3A17%3A07.281Z",
     "featured_recipe": {
