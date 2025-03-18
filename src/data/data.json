@@ -1,5 +1,79 @@
 [
   {
+    "date": "3-12-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//3-12-2025.MOV",
+    "featured_recipe": {
+      "name": "Garlic-Parmesan Roasted Cauliflower",
+      "link": "https://dishingouthealth.com/parmesan-roasted-cauliflower/"
+    },
+    "items": [
+      {
+        "name": "Avocados",
+        "source": "Mary Annes (Neighbor/Customer)",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Guavas",
+        "source": "Kelsey (Neighbor/Customer)",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cauliflower",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Citrus (Meyer Lemons & Blood Oranges)",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Swiss Chard",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Lettuce Heads",
+        "source": "Farm Lab",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dino Kale",
+        "source": "Farm Lab",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "3-05-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//cardiff%20tiny-%20WITB&SUPCLUBSO.mov",
     "featured_recipe": {
