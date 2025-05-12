@@ -1,7 +1,7 @@
 [
   {
     "date": "5-7-2025",
-    "url": "",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//5-7-25-trimmed.mov",
     "featured_recipe": {
       "name": "Strawberry Salad With Roasted Beets & Goat Cheese",
       "link": "https://acultivatedliving.com/recipe/summer-strawberry-salad-with-roasted-beets/"
@@ -40,16 +40,16 @@
         }
       },
       {
-        "name": "Green Onions",
-        "source": "Cardiff Tiny Farm",
+        "name": "Radish",
+        "source": "Stehly Farms",
         "recipe": {
           "name": "",
           "link": ""
         }
       },
       {
-        "name": "Radish",
-        "source": "Stehly Farms",
+        "name": "Flower Bundle",
+        "source": "Cardiff Tiny Farm",
         "recipe": {
           "name": "",
           "link": ""
