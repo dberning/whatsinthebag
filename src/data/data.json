@@ -1,5 +1,79 @@
 [
   {
+    "date": "6-25-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//6-28-25.MOV",
+    "featured_recipe": {
+      "name": "Roasted Beet Hummus and Avocado Toast",
+      "link": "precioustimeblog.com/roasted-beet-hummus-and-avocado-toast/"
+    },
+    "items": [
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Spicy Salad Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Radish",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Avocados",
+        "source": "Avocado Bliss Retreat",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Mandarin Oranges",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Lemons",
+        "source": "Fabroni Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Leafy Green Bundle",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "6-18-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//6-18-24-trimed.mov",
     "featured_recipe": {
