@@ -8,12 +8,25 @@ type CSAVideoPlayerProps = {
 
 export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
   
+  const handleVideoError = (e: React.SyntheticEvent<HTMLVideoElement>) => {
+    console.error('Video failed to load:', e);
+  };
+
   return (
     <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center overflow-y-auto">
         <div className="rounded-l-lg shadow-lg bg-white max-w-sm">
             
-                <video width="320px" height="240px" controls className="rounded-t-lg">
-                    <source src={record.url} />                    
+                <video 
+                  width="320px" 
+                  height="240px" 
+                  controls 
+                  className="rounded-t-lg"
+                  onError={handleVideoError}
+                  preload="metadata"
+                >
+                    <source src={record.url} type="video/quicktime" />
+                    <source src={record.url} type="video/mp4" />
+                    <source src={record.url} type="video/webm" />
                     Your browser does not support the video tag.
                 </video>
             </div>
