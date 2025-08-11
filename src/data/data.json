@@ -1,5 +1,71 @@
 [
   {
+    "date": "8-6-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-6-2025.MP4",
+    "featured_recipe": {
+      "name": "Broccoli & Tomato Breakfast Tacos",
+      "link": "https://dishingupthedirt.com/farm-fresh/broccoli/broccoli-kohlrabi-breakfast-tacos/"
+    },
+    "items": [
+      {
+        "name": "Carrots",
+        "source": "Farm Lab",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cucumbers",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Broccoli",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Plums",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dates",
+        "source": "Palmera Date Co.",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "7-30-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos//7-30-25.MOV",
     "featured_recipe": {

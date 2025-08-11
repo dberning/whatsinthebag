@@ -1,5 +1,6 @@
 import { CSAItem, CSAVideo } from "@/src/types/csa-video";
 import CSAItemDescription from "./CSAItemDescription";
+import { useState } from "react";
 
 type CSAVideoPlayerProps = {
   record: CSAVideo, 
@@ -8,27 +9,53 @@ type CSAVideoPlayerProps = {
 
 export default function CSACard( { record, isFeatured }: CSAVideoPlayerProps){
   
+  const [videoError, setVideoError] = useState(false);
+  
   const handleVideoError = (e: React.SyntheticEvent<HTMLVideoElement>) => {
     console.error('Video failed to load:', e);
+    setVideoError(true);
+  };
+
+  const handleVideoLoad = () => {
+    setVideoError(false);
   };
 
   return (
     <div className="flex flex-col md:flex-row w-3/4 md:w-full justify-center overflow-y-auto">
         <div className="rounded-l-lg shadow-lg bg-white max-w-sm">
             
-                <video 
-                  width="320px" 
-                  height="240px" 
-                  controls 
-                  className="rounded-t-lg"
-                  onError={handleVideoError}
-                  preload="metadata"
-                >
-                    <source src={record.url} type="video/quicktime" />
-                    <source src={record.url} type="video/mp4" />
-                    <source src={record.url} type="video/webm" />
-                    Your browser does not support the video tag.
-                </video>
+                {videoError ? (
+                  <div className="w-[320px] h-[240px] bg-gray-100 rounded-t-lg flex items-center justify-center">
+                    <div className="text-center">
+                      <p className="text-gray-600 mb-2">Video unavailable</p>
+                      <a 
+                        href={record.url} 
+                        target="_blank" 
+                        rel="noopener noreferrer"
+                        className="text-blue-600 hover:text-blue-800 underline text-sm"
+                      >
+                        Download video
+                      </a>
+                    </div>
+                  </div>
+                ) : (
+                  <video 
+                    width="320px" 
+                    height="240px" 
+                    controls 
+                    className="rounded-t-lg"
+                    onError={handleVideoError}
+                    onLoadedData={handleVideoLoad}
+                    preload="metadata"
+                    crossOrigin="anonymous"
+                  >
+                      <source src={record.url} type="video/quicktime" />
+                      <source src={record.url} type="video/mp4" />
+                      <source src={record.url} type="video/webm" />
+                      <source src={record.url} />
+                      Your browser does not support the video tag.
+                  </video>
+                )}
             </div>
             <div className="px-4 md:px-12 pt-4 bg-white rounded-r-lg md:w-96">
               <div className="mb-4">
