@@ -1,5 +1,71 @@
 [
   {
+    "date": "8-30-2025",
+    "url": "",
+    "featured_recipe": {
+      "name": "Grilled Zucchini & Watermelon Skewer w/ Citrus Glaze",
+      "link": "https://theinspiredhome.com/articles/delicious-veggie-skewers-for-your-next-cookout/"
+    },
+    "items": [
+      {
+        "name": "Salad Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Watermelon",
+        "source": "Hutano Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Plumcots",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Yellow Corn",
+        "source": "Hutano Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Mandarins",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "8-13-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-13-2025.MOV",
     "featured_recipe": {
