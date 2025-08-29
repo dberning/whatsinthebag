@@ -1,6 +1,80 @@
 [
   {
-    "date": "8-30-2025",
+    "date": "8-27-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-27-2025.MOV",
+    "featured_recipe": {
+      "name": "Garlic Sautéed Green Beans with Toasted Almonds",
+      "link": "https://www.lecremedelacrumb.com/sauteed-green-beans-with-garlic-and-almonds/"
+    },
+    "items": [
+      {
+        "name": "Salad Mix",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Apples",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Oranges",
+        "source": "Enjoy the Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Dragon Fruit",
+        "source": "Frutola Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Turnips",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Green Beans",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
+    "date": "8-20-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/8-20-2025.MOV",
     "featured_recipe": {
       "name": "Grilled Zucchini & Watermelon Skewer w/ Citrus Glaze",
