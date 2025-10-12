@@ -1,6 +1,80 @@
 [
   {
-    "date": "10-04-2025",
+    "date": "10-08-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-12-2025.MOVhttps://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-12-2025.MOV",
+    "featured_recipe": {
+      "name": "Persimmon Grilled Cheese Sandwiches",
+      "link": "https://tasteofthesouthmagazine.com/persimmon-grilled-cheese-sandwiches/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Zucchini",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Shishito Peppers",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Honeycrisp Apples",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Avocados",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Celery",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Persimmons",
+        "source": "Behneman Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
+    "date": "10-01-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/IMG_0166.MOV",
     "featured_recipe": {
       "name": "Roasted Sweet Potato Salad",
