@@ -1,5 +1,79 @@
 [
   {
+    "date": "10-15-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-15-2025.MOV",
+    "featured_recipe": {
+      "name": "New Potato and Green Bean Hash w/ Poached Eggs for Breakfast",
+      "link": "https://www.petesrealfood.com/blogs/blog/125278595-new-potato-and-green-bean-hash-w-poached-eggs-for-breakfast?srsltid=AfmBOorAcVgvoLzr_dZDladwk6QIq2-0tc0RWMyQj1daUzGOCKSQz1G_"
+    },
+    "items": [
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Shishito Peppers",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Yellow Green Beans",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Fuji Apples",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Potatoes",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Carrots",
+        "source": "Solidarity Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Cilantro",
+        "source": "Solidarity Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "10-08-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-12-2025.MOVhttps://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-12-2025.MOV",
     "featured_recipe": {
