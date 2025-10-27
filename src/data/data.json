@@ -1,5 +1,79 @@
 [
   {
+    "date": "10-22-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-22-2025.MOV",
+    "featured_recipe": {
+      "name": "Roasted Acorn Squash And Carrot Soup",
+      "link": "https://www.keepingitsimpleblog.com/food/carrot-and-acorn-squash-soup-with-carrot-top-pistou/"
+    },
+    "items": [
+      {
+        "name": "Collard Greens",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "Zucchini",
+          "link": ""
+        }
+      },
+      {
+        "name": "Avocados",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Carrots",
+        "source": "Solidarity Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Yellow Green Beans",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Honeycrisp Apples",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Red Kuri Squash",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "JR Organics",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "10-15-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-15-2025.MOV",
     "featured_recipe": {
