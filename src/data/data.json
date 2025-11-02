@@ -48,6 +48,14 @@
         }
       },
       {
+        "name": "Carnival Squash",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
         "name": "Fruit Leather",
         "source": "Juice Jerky",
         "recipe": {
