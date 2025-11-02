@@ -1,5 +1,63 @@
 [
   {
+    "date": "10-29-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-29-25-v3.mov",
+    "featured_recipe": {
+      "name": "Coconut and Ginger Pumpkin Soup",
+      "link": "https://nourisheveryday.com/coconut-ginger-pumpkin-soup/"
+    },
+    "items": [
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Carrots",
+        "source": "La Chispa",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tangerine",
+        "source": "Stehly Farms",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Pears",
+        "source": "Jacy Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Fruit Leather",
+        "source": "Juice Jerky",
+        "recipe": {
+          "name": "@juicejerky",
+          "link": "https://www.instagram.com/juicejerky/"
+        }
+      }
+    ]
+  },
+  {
     "date": "10-22-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-22-2025.MOV",
     "featured_recipe": {
