@@ -1,5 +1,79 @@
 [
   {
+    "date": "11-10-2025",
+    "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/11-2-2025-720p.mp4",
+    "featured_recipe": {
+      "name": "Sweet Corn & Bell Pepper Frittata",
+      "link": "https://food52.com/recipes/15098-southwest-breakfast-corn-frittata"
+    },
+    "items": [
+      {
+        "name": "Pomegranate",
+        "source": "Behenmen Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Bell Peppers",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Napa Cabbage",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Yellow Corn",
+        "source": "Sage Mountain Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Arugula",
+        "source": "Grow Eco Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Beets",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Tomatoes",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      },
+      {
+        "name": "Shishito Peppers",
+        "source": "Cardiff Tiny Farm",
+        "recipe": {
+          "name": "",
+          "link": ""
+        }
+      }
+    ]
+  },
+  {
     "date": "10-29-2025",
     "url": "https://wjfvlpcyvmnhnoxeyflj.supabase.co/storage/v1/object/public/videos/10-29-25-v3.mov",
     "featured_recipe": {
